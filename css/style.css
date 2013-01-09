@@ -1,0 +1,22 @@
+ul {
+    display: none;
+}
+
+.ejemplo_img_cont {
+	float:left;
+	position:absolute;
+	background:#000;
+	height:60px;
+	line-height:25px;
+	width:560px;
+	padding:20px;
+	opacity:.8;
+	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+	-MS-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	top:450px;
+	left:0px;
+	color:#FFF;
+	font-size:18px;
+	font-family:"Lucida Grande", Arial, sans-serif;
+	z-index:10;
+}
